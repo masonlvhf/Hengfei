@@ -1,12 +1,14 @@
 Hello, this is Hengfei. 
 
 <li>I am a Visiting fellow at School of Mathematics, Tata Institute of Fundamental Research (Mumbai) from September 2017, working with Professor Dipendra Prasad. Under the supervision of Professor Wee Teck Gan, I finished my Ph.D. study at Department of Mathematics, National University of Singapore.
-<li>I am interested in the local Langlands correspondence.<\li>
-
+<li>I am interested in the local Langlands correspondence.
+  
+<ul>
 ## Address:
 School of Mathematics, TIFR, Mumbai
-<li>email:masonlvhf@gmail.com<\li>
-
+<li><a href="mailto:masonlvhf at gmail dot com">email:masonlvhf@gmail.com
+  
+<ul>
 ### Papers and Preprints
 
 <li> <a href="https://msp.org/pjm/2018/295-2/p12.xhtml">Theta correspondence and the Prasad conjecture for SL(2), Pac. J. Math. 295 (2018), No.2, 477--498
