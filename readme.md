@@ -4,13 +4,13 @@ I am a postdoc at Weizmann Institute of Science. I was a Visiting fellow at Scho
  <p> 
  I am interested in the relative local Langlands correspondence.
   
-<p> Education <p>
+### Education 
 <li> Department of Mathematics, National University of Singapore, Singapore, 2012--2017 
  <li> Department of Mathematics, Nanjing University, China, 2010--2012 
  <li> School of Mathematics and Statistics, Wuhan University, China, 2006--2010 
 
 
-## Papers and Preprints
+### Papers and Preprints
 <li> The SL(1,D)-distinction problem, to appear in Pac. J. Math. (2018) 
 <li> <a href="https://msp.org/pjm/2018/295-2/p12.xhtml">Theta correspondence and the Prasad conjecture for SL(2)<a>,
  Pac. J. Math. 295 (2018), No.2, 477--498 
