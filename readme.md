@@ -25,7 +25,7 @@ I am a postdoc at Weizmann Institute of Science. I was a Visiting fellow at Scho
  J. Number Theory 180 (2017),1--25 
 <li><a href="http://scholarbank.nus.sg/handle/10635/135863">GSp(4)-period problems over a quadratic field extension</a>, 
  Ph.D thesis, NUS, 2017
- </p>
+ 
 <p>
  <a href="mailto:masonlvhf at gmail dot com">email:masonlvhf@gmail.com </a>
   </p>
