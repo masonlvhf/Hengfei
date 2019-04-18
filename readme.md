@@ -9,7 +9,7 @@ I am a postdoc at Weizmann Institute of Science. I was a Visiting fellow at Scho
  I am interested in the relative local Langlands correspondence.
 </p>
 
-### Education 
+<h1> Education </h1>
 <p>
 <li> Department of Mathematics, National University of Singapore, Singapore, 2012--2017 </li>
  <li> Department of Mathematics, Nanjing University, China, 2010--2012 </li>
