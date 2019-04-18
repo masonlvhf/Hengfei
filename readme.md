@@ -27,6 +27,6 @@ I am a postdoc at Weizmann Institute of Science. I was a Visiting fellow at Scho
  Ph.D thesis, NUS, 2017
  </p>
 <p>
- <a href="mailto:masonlvhf at gmail dot com">email:masonlvhf@gmail.com
+ <a href="mailto:masonlvhf at gmail dot com">email:masonlvhf@gmail.com </a>
   </p>
-<li> click <a href="https://sites.google.com/site/luhengfei1018/home">吕恒飞<a> (sites.google.com) for more details.
+<li> click <a href="https://sites.google.com/site/luhengfei1018/home">吕恒飞</a> (sites.google.com) for more details.
