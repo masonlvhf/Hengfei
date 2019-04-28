@@ -19,9 +19,9 @@ I am a postdoc at Weizmann Institute of Science. I was a Visiting fellow at Scho
 <h1> Papers and Preprints </h1>
 <p>
  <li> Some applications of theta correspondence to branching laws. arXiv:<a href="https://arxiv.org/abs/1904.03216">1904.03216 </a></li>
-<li> The SL(1,D)-distinction problem, to appear in Pac. J. Math. (2018) </li>
+<li> The SL(1,D)-distinction problem, to appear in Pacific J. Math. (2018) </li>
 <li> <a href="https://msp.org/pjm/2018/295-2/p12.xhtml">Theta correspondence and the Prasad conjecture for SL(2)</a>,
- Pac. J. Math. 295 (2018), No.2, 477--498 
+ Pacific J. Math. 295 (2018), No.2, 477--498 
 <li><a href="https://doi.org/10.1016/j.jnt.2017.03.010">A New Proof to the Period Problems of GL(2)</a>,
  J. Number Theory 180 (2017),1--25 
 <li><a href="http://scholarbank.nus.sg/handle/10635/135863">GSp(4)-period problems over a quadratic field extension</a>, 
