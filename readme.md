@@ -32,7 +32,7 @@ I am a postdoc at Weizmann Institute of Science. I was a Visiting fellow at Scho
 Postdoctoral Fellow 
 <li>Department of Mathematics, 
 The Weizmann Institute of Science </li>
-<li>Herzl 234, POB 26, Rehovot 7610001 Israel </li>
+<li>234 Herzl St., P.O.B. 26, Rehovot 7610001 Israel </li>
 Email: hengfei [dot] lu [at] weizmann [dot] ac [dot] il 
 <li>Office: Goldsmith Building, Room 214</li>
 </p>
