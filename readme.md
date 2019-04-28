@@ -26,8 +26,13 @@ I am a postdoc at Weizmann Institute of Science. I was a Visiting fellow at Scho
  J. Number Theory 180 (2017),1--25 
 <li><a href="http://scholarbank.nus.sg/handle/10635/135863">GSp(4)-period problems over a quadratic field extension</a>, 
  Ph.D thesis, NUS, 2017
- 
+ </p>
+<h1> Contact me </h1>
 <p>
- <a href="mailto:masonlvhf at gmail dot com">email:masonlvhf@gmail.com </a>
-  </p>
-
+Postdoctoral Fellow 
+<li>Department of Mathematics, 
+The Weizmann Institute of Science </li>
+<li>Herzl 234, POB 26, Rehovot 7610001 Israel </li>
+Email: hengfei [dot] lu [at] weizmann [dot] ac [dot] il 
+<li>Office: Goldsmith Building, Room 214</li>
+</p>
