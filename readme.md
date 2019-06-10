@@ -19,9 +19,9 @@ I am a postdoc at Weizmann Institute of Science. I was a Visiting fellow at Scho
 <h1> Papers and Preprints </h1>
 <p>
  <li> The Prasad conjectures for GSp(4) and PGSp(4) arXiv:<a href="https://arxiv.org/abs/1802.10336v4">1802.10336 </a></li>
- <li> Some applications of theta correspondence to branching laws, to appear in Math. Res. Lett. (2019)
+ <li> <a href="https://drive.google.com/file/d/1dV7tME7KCg9ELTVjFirDVEdEWa3PMzX5/view?usp=sharing"> Some applications of theta correspondence to branching laws</a>, to appear in Math. Res. Lett. (2019)
  </li>
-<li> The SL(1,D)-distinction problem, to appear in Pacific J. Math. (2018) </li>
+<li> <a href="https://arxiv.org/abs/1805.04846">The SL(1,D)-distinction problem</a>, to appear in Pacific J. Math. (2018) </li>
 <li><a href="https://doi.org/10.1016/j.jnt.2019.04.002">The Prasad conjectures for U(2), SO(4) and Sp(4)</a>. JNT(2019)
   </li>
 <li> <a href="https://msp.org/pjm/2018/295-2/p12.xhtml">Theta correspondence and the Prasad conjecture for SL(2)</a>,
