@@ -18,6 +18,8 @@ I am a postdoc at Weizmann Institute of Science. I was a Visiting fellow at Scho
 
 <h1> Papers and Preprints </h1>
 <p>
+ <li>The GSp(1,1)(A)-distinguished representations. 
+  <\li>
  <li> The Prasad conjectures for GSp(4) and PGSp(4) arXiv:<a href="https://arxiv.org/abs/1802.10336v4">1802.10336 </a></li>
  <li> <a href="https://drive.google.com/file/d/1dV7tME7KCg9ELTVjFirDVEdEWa3PMzX5/view?usp=sharing"> Some applications of theta correspondence to branching laws</a>, to appear in Math. Res. Lett. (2019)
  </li>
