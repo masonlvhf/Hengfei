@@ -21,6 +21,8 @@ I am a postdoc at Weizmann Institute of Science. I was a Visiting fellow at Scho
  <li>The GSp(1,1)(A)-distinguished representations. 
   </li>
  <li> The Prasad conjectures for GSp(4) and PGSp(4) arXiv:<a href="https://arxiv.org/abs/1802.10336v4">1802.10336 </a></li>
+ <li> The distinction problem for metaplectic case, accepted by Int. J. Number Theory.(2019)
+  </li>
  <li> <a href="https://drive.google.com/file/d/1dV7tME7KCg9ELTVjFirDVEdEWa3PMzX5/view?usp=sharing"> Some applications of theta correspondence to branching laws</a>, to appear in Math. Res. Lett. (2019)
  </li>
 <li> <a href="https://msp.org/pjm/2019/300-1/p04.xhtml">The SL(1,D)-distinction problem</a>, Pacific J. Math. 300 (2019), No. 1, 65--82. </li>
