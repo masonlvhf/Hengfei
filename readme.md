@@ -31,20 +31,23 @@ I am a postdoc at Weizmann Institute of Science. I was a Visiting fellow at Scho
 <li><a href="https://doi.org/10.1016/j.jnt.2019.04.002">The Prasad conjectures for U(2), SO(4) and Sp(4)</a>. J. Number Theory 204 (2019), 211--245.
   </li>
 <li> <a href="https://msp.org/pjm/2018/295-2/p12.xhtml">Theta correspondence and the Prasad conjecture for SL(2)</a>,
- Pacific J. Math. 295 (2018), No.2, 477--498 
+ Pacific J. Math. 295 (2018), No.2, 477--498. </li> 
 <li><a href="https://doi.org/10.1016/j.jnt.2017.03.010">A New Proof to the Period Problems of GL(2)</a>,
- J. Number Theory 180 (2017),1--25 
+ J. Number Theory 180 (2017),1--25. </li>
 <li><a href="http://scholarbank.nus.sg/handle/10635/135863">GSp(4)-period problems over a quadratic field extension</a>, 
- Ph.D thesis, NUS, 2017
+ Ph.D thesis, NUS, 2017.</li>
+ </p>
  <p>
- 
  <a href="https://m.maploco.com/details/b3a5xvfj"><img style="border:0px;" src="https://www.maploco.com/vmap/s/9978463.png" alt="Locations of Site Visitors" title="Locations of Site Visitors"/></a>  
+</p>
 <h1> Contact me </h1>
+
 <p>
 Postdoctoral Fellow 
+ <li>
+ Office: Goldsmith Building, Room 214</li>
 <li>Department of Mathematics, 
 The Weizmann Institute of Science </li>
 <li>234 Herzl St., P.O.B. 26, Rehovot 7610001 Israel </li>
 Email: hengfei [dot] lu [at] weizmann [dot] ac [dot] il 
-<li>Office: Goldsmith Building, Room 214</li>
 </p>
