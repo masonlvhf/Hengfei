@@ -18,6 +18,8 @@ I am a postdoc at Weizmann Institute of Science. I was a Visiting fellow at Scho
 
 <h1> Papers and Preprints </h1>
 <p>
+ <li> Vanishing of certain equivariant distributions on spherical spaces for quasi-split groups.
+  </li>
  <li>The GSp(1,1)(A)-distinguished representations. 
   </li>
  <li> The Prasad conjectures for GSp(4) and PGSp(4) arXiv:<a href="https://arxiv.org/abs/1802.10336v4">1802.10336 </a></li>
