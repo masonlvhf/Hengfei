@@ -27,7 +27,7 @@ I am a postdoc at Weizmann Institute of Science. I was a Visiting fellow at Scho
  <li> The Prasad conjectures for GSp(4) and PGSp(4) arXiv:<a href="https://arxiv.org/abs/1802.10336v4">1802.10336 </a></li>
  <li> The distinction problem for metaplectic case, accepted by Int. J. Number Theory.(2019)
   </li>
- <li> <a href="https://www.intlpress.com/site/pub/pages/journals/items/mrl/content/vols/0027/0001/a012/index.php"> Some applications of theta correspondence to branching laws</a>, Math. Res. Lett. 27 (2019), No.1, 243--263. 
+ <li> <a href="https://www.intlpress.com/site/pub/pages/journals/items/mrl/content/vols/0027/0001/a012/index.php"> Some applications of theta correspondence to branching laws</a>, Math. Res. Lett. 27 (2020), No.1, 243--263. 
  </li>
 <li> <a href="https://msp.org/pjm/2019/300-1/p04.xhtml">The SL(1,D)-distinction problem</a>, Pacific J. Math. 300 (2019), No. 1, 65--82. </li>
 <li><a href="https://doi.org/10.1016/j.jnt.2019.04.002">The Prasad conjectures for U(2), SO(4) and Sp(4)</a>. J. Number Theory 204 (2019), 211--245.
