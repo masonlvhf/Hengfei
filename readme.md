@@ -22,7 +22,9 @@ I am a postdoc at Weizmann Institute of Science. I was a Visiting fellow at Scho
   </li>
  <li>The GSp(1,1)(A)-distinguished representations. 
  </li>
- <li> The Prasad conjectures for GSp(4) and PGSp(4) arXiv:<a href="https://arxiv.org/abs/1802.10336v4">1802.10336 </a></li>
+ <li> The generalized linear period. <a href="https://arxiv.org/abs/2020.00447v2"> arXiv</a>
+  </li>
+ <li> The Prasad conjectures for GSp(4) and PGSp(4). arXiv:<a href="https://arxiv.org/abs/1802.10336v4">1802.10336 </a></li>
  <li> The distinction problem for metaplectic case, accepted by Int. J. Number Theory.(2019)
   </li>
  <li> <a href="https://www.intlpress.com/site/pub/pages/journals/items/mrl/content/vols/0027/0001/a012/index.php"> Some applications of theta correspondence to branching laws</a>, Math. Res. Lett. 27 (2020), No.1, 243--263. 
