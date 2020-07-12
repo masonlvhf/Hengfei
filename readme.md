@@ -25,7 +25,7 @@ I am a postdoc at Weizmann Institute of Science. I was a Visiting fellow at Scho
  <li> The generalized linear period. <a href="https://arxiv.org/abs/2004.00447v2"> arXiv</a>
   </li>
  <li> The Prasad conjectures for GSp(4) and PGSp(4). accepted by Algebra Number Theory. arXiv:<a href="https://arxiv.org/abs/1802.10336v4">1802.10336 </a></li>
- <li> The distinction problem for metaplectic case, accepted by Int. J. Number Theory.(2019)
+ <li> The distinction problem for metaplectic case, Int. J. Number Theory. 16 (2020), issue 6, 1161–1183. 
   </li>
  <li> <a href="https://www.intlpress.com/site/pub/pages/journals/items/mrl/content/vols/0027/0001/a012/index.php"> Some applications of theta correspondence to branching laws</a>, Math. Res. Lett. 27 (2020), No.1, 243--263. 
  </li>
