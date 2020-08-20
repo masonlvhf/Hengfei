@@ -22,6 +22,8 @@ I am a postdoc at Weizmann Institute of Science. I was a Visiting fellow at Scho
   </li>
  <li>The GSp(1,1)(A)-distinguished representations. 
  </li>
+  <li> The action of a mirabolic subgroup on a symmetric variety. <a href="https://arxiv.org/abs/2008.08463"> arXiv</a>
+   </li>
  <li> The generalized linear period. <a href="https://arxiv.org/abs/2004.00447v2"> arXiv</a>
   </li>
  <li> The Prasad conjectures for GSp(4) and PGSp(4). accepted by Algebra Number Theory. arXiv:<a href="https://arxiv.org/abs/1802.10336v4">1802.10336 </a></li>
