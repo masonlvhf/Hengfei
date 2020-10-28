@@ -49,10 +49,9 @@ I am a postdoc at University of Vienna. I was a Visiting fellow at Weizmann Inst
 
 <p>
 Postdoctoral Fellow 
- <li>
- Office: Goldsmith Building, Room 214</li>
-<li>Department of Mathematics, 
-The Weizmann Institute of Science </li>
-<li>234 Herzl St., P.O.B. 26, Rehovot 7610001 Israel </li>
-Email: hengfei [dot] lu [at] weizmann [dot] ac [dot] il 
+ 
+<li>Institute of Mathematics, 
+University of Vienna </li>
+<li>Oskar-Morgenstern-Platz 1 Vienna 1090 Austria </li>
+Email: hengfei [dot] lu [at] univie [dot] ac [dot] at 
 </p>
