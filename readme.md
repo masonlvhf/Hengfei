@@ -42,15 +42,13 @@ I am a postdoc at University of Vienna. I was a Visiting fellow at Weizmann Inst
 <li><a href="http://scholarbank.nus.sg/handle/10635/135863">GSp(4)-period problems over a quadratic field extension</a>, 
  Ph.D thesis, NUS, 2017.</li>
  </p>
- <p>
- <a href="https://m.maploco.com/details/b3a5xvfj"><img style="border:0px;" src="https://www.maploco.com/vmap/s/9978463.png" alt="Locations of Site Visitors" title="Locations of Site Visitors"/></a>  
-</p>
+
 <h1> Contact me </h1>
 
 <p>
 Postdoctoral Fellow 
  
-<li>Institute of Mathematics, 
+<li>Faculty of Mathematics, 
 University of Vienna </li>
 <li>Oskar-Morgenstern-Platz 1 Vienna 1090 Austria </li>
 Email: hengfei [dot] lu [at] univie [dot] ac [dot] at 
