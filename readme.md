@@ -21,7 +21,7 @@ I am a postdoc at University of Vienna. I was a Visiting fellow at Weizmann Inst
  <li> Vanishing of certain equivariant distributions on spherical spaces for quasi-split groups.
   </li>
 
-  <li> The action of a mirabolic subgroup on a symmetric variety. <a href="https://arxiv.org/abs/2008.08463"> arXiv</a>
+  <li> The action of a mirabolic subgroup on a symmetric variety. <a href="https://arxiv.org/abs/2008.08463v2"> arXiv</a>
    </li>
  <li> The generalized linear period. <a href="https://arxiv.org/abs/2004.00447v2"> arXiv</a>
  <li>
