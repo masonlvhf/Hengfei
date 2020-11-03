@@ -24,6 +24,9 @@ I am a postdoc at University of Vienna. I was a Visiting fellow at Weizmann Inst
   <li> The action of a mirabolic subgroup on a symmetric variety. <a href="https://arxiv.org/abs/2008.08463"> arXiv</a>
    </li>
  <li> The generalized linear period. <a href="https://arxiv.org/abs/2004.00447v2"> arXiv</a>
+ <li>
+  The distinction problems for Sp(4) and SO(3,3). accepted by Forum. Math.
+  </li>
   </li>
    <li>The GSp(1,1)(A)-distinguished representations. to appear in Math. Zeit. <a href="https://doi.org/10.1007/s00209-020-02607-4">DOI</a>
  </li>
