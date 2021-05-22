@@ -24,6 +24,8 @@ I am a postdoc at University of Vienna. I was a Visiting fellow at Weizmann Inst
   <li> The action of a mirabolic subgroup on a symmetric variety. <a href="https://arxiv.org/abs/2008.08463v2"> arXiv</a>
    </li>
  <li> The generalized linear period. <a href="https://arxiv.org/abs/2004.00447v2"> arXiv</a>
+  <li> Multiplicity one for the pair (GL(n,D),GL(n,E)). accepted by Transform. Groups.
+   </li>
  <li>
   The distinction problems for Sp(4) and SO(3,3). accepted by Forum. Math.
   </li>
