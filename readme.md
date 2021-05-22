@@ -27,12 +27,12 @@ I am a postdoc at University of Vienna. I was a Visiting fellow at Weizmann Inst
   <li> Multiplicity one for the pair (GL(n,D),GL(n,E)). accepted by Transform. Groups.
    </li>
  <li>
-  The distinction problems for Sp(4) and SO(3,3). accepted by Forum. Math.
+  The distinction problems for Sp(4) and SO(3,3). Forum Math. 33 (2021), No. 2, 321--337. 
   </li>
   </li>
-   <li>The GSp(1,1)(A)-distinguished representations. to appear in Math. Zeit. <a href="https://doi.org/10.1007/s00209-020-02607-4">DOI</a>
+   <li>The GSp(1,1)(A)-distinguished representations, Math. Zeit. 298 (2021), issue 1-2, 497 -- 519. 
  </li>
- <li> The Prasad conjectures for GSp(4) and PGSp(4). accepted by Algebra Number Theory. arXiv:<a href="https://arxiv.org/abs/1802.10336v4">1802.10336 </a></li>
+ <li> The Prasad conjectures for GSp(4) and PGSp(4), Algebra Number Theory, 14 (2020), No.9, 2417--2480.  </li>
  <li> The distinction problem for metaplectic case, Int. J. Number Theory. 16 (2020), issue 6, 1161–1183. 
   </li>
  <li> <a href="https://www.intlpress.com/site/pub/pages/journals/items/mrl/content/vols/0027/0001/a012/index.php"> Some applications of theta correspondence to branching laws</a>, Math. Res. Lett. 27 (2020), No.1, 243--263. 
