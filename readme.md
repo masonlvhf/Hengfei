@@ -3,7 +3,7 @@
 
 Hello, this is <a href="https://sites.google.com/site/luhengfei1018/home">Hengfei</a>(the link for google sites). 
 <p>
-I am a postdoc at University of Vienna. I was a Visiting fellow at Weizmann Institute of Science and Tata Institute of Fundamental Research Mumbai. I finished my Ph.D. study at Department of Mathematics, National University of Singapore in 2017.
+I am a postdoc at University of Vienna. I was a postdoc fellow at Weizmann Institute of Science and a visiting fellow at Tata Institute of Fundamental Research Mumbai. I finished my Ph.D. study at Department of Mathematics, National University of Singapore in 2017.
  </p> 
   <p>
  I am interested in the relative local Langlands correspondence.
@@ -23,7 +23,7 @@ I am a postdoc at University of Vienna. I was a Visiting fellow at Weizmann Inst
 
   <li> The action of a mirabolic subgroup on a symmetric variety. <a href="https://arxiv.org/abs/2008.08463v2"> arXiv</a>
    </li>
- <li> The generalized linear period. <a href="https://arxiv.org/abs/2004.00447v2"> arXiv</a>
+ <li> The generalized linear period. accepted by J. Number Theory <a href="https://arxiv.org/abs/2004.00447v2"> arXiv</a>
   <li> Multiplicity one for the pair (GL(n,D),GL(n,E)). accepted by Transform. Groups. <a href="https://arxiv.org/abs/2105.10855"> arXiv</a>
    </li>
  <li>
