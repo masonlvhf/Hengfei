@@ -18,14 +18,15 @@ I am a postdoc at University of Vienna. I was a postdoc fellow at Weizmann Insti
 
 <h1> Papers and Preprints </h1>
 <p>
- <li> Vanishing of certain equivariant distributions on spherical spaces for quasi-split groups.
-  </li>
+
 
   <li> The action of a mirabolic subgroup on a symmetric variety. <a href="https://arxiv.org/abs/2008.08463v2"> arXiv</a>
    </li>
  <li> The generalized linear period. accepted by J. Number Theory <a href="https://arxiv.org/abs/2004.00447v2"> arXiv</a>
   <li> Multiplicity one for the pair (GL(n,D),GL(n,E)). accepted by Transform. Groups. <a href="https://arxiv.org/abs/2105.10855"> arXiv</a>
    </li>
+  <li> Vanishing of certain equivariant distributions on spherical spaces for quasi-split groups. accepted by J. Pure Appl. Algebra.
+  </li>
  <li>
   The distinction problems for Sp(4) and SO(3,3). Forum Math. 33 (2021), No. 2, 321--337. 
   </li>
