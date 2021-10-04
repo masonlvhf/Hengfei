@@ -20,7 +20,7 @@ I am a postdoc at University of Vienna. I was a postdoc fellow at Weizmann Insti
 <p>
 
 
-  <li> The action of a mirabolic subgroup on a symmetric variety. <a href="https://arxiv.org/abs/2008.08463v2"> arXiv</a>
+  <li> The action of a mirabolic subgroup on a symmetric variety.  accepted by J. Algebra <a href="https://arxiv.org/abs/2008.08463v2"> arXiv</a>
    </li>
  <li> The generalized linear period. accepted by J. Number Theory <a href="https://arxiv.org/abs/2004.00447v2"> arXiv</a>
   <li> Multiplicity one for the pair (GL(n,D),GL(n,E)). accepted by Transform. Groups. <a href="https://arxiv.org/abs/2105.10855"> arXiv</a>
