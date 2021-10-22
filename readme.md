@@ -20,12 +20,12 @@ I am a postdoc at University of Vienna. I was a postdoc fellow at Weizmann Insti
 <p>
 
 
-  <li> The action of a mirabolic subgroup on a symmetric variety.  J. Algebra 589(2022)<a href="https://doi.org/10.1016/j.jalgebra.2021.10.005">323-344 </a>
+  <li> The action of a mirabolic subgroup on a symmetric variety.  J. Algebra 589(2022), <a href="https://doi.org/10.1016/j.jalgebra.2021.10.005">323-344 </a>.
    </li>
  <li> The generalized linear period. accepted by J. Number Theory <a href="https://doi.org/10.1016/j.jnt.2021.06.010"> pdf</a>
   <li> Multiplicity one for the pair (GL(n,D),GL(n,E)). accepted by Transform. Groups. <a href="https://arxiv.org/abs/2105.10855"> arXiv</a>
    </li>
-  <li> Vanishing of certain equivariant distributions on spherical spaces for quasi-split groups. J. Pure Appl. Algebra. 226 (2022)<a href="https://doi.org/10.1016/j.jpaa.2021.106870"> No. 3</a>
+  <li> Vanishing of certain equivariant distributions on spherical spaces for quasi-split groups. J. Pure Appl. Algebra. 226 (2022), No.3, <a href="https://doi.org/10.1016/j.jpaa.2021.106870">  ID:106870.</a>
   </li>
  <li>
   The distinction problems for Sp(4) and SO(3,3). Forum Math. 33 (2021), No. 2, 321--337. 
