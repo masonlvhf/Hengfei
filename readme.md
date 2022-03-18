@@ -22,8 +22,8 @@ I am a postdoc at University of Vienna. I was a postdoc fellow at Weizmann Insti
 
   <li> The action of a mirabolic subgroup on a symmetric variety.  J. Algebra 589(2022), <a href="https://doi.org/10.1016/j.jalgebra.2021.10.005">323-344 </a>.
    </li>
- <li> The generalized linear period. accepted by J. Number Theory <a href="https://doi.org/10.1016/j.jnt.2021.06.010"> pdf</a>
-  <li> Multiplicity one for the pair (GL(n,D),GL(n,E)). accepted by Transform. Groups. <a href="https://arxiv.org/abs/2105.10855"> arXiv</a>
+ <li> The generalized linear period. J. Number Theory 233 (2022)<a href="https://doi.org/10.1016/j.jnt.2021.06.010"> 261--284</a>
+  <li> Multiplicity one for the pair (GL(n,D),GL(n,E)). accepted by Transform. Groups <a href="https://link.springer.com/epdf/10.1007/s00031-022-09713-z?sharing_token=n-hDYgHXdKAmCJRudrzoNPe4RwlQNchNByi7wbcMAY4_oS2KWDO6A6DikSUXjMw03WfaIc-WZQ1Stn8J27hpcJNGSjSEz5reKCzkMGvgJavCxgSLVzJfHlp76DTg9izkDB62Sn-I-NUBBxK_NBfQwWuL5fXht8l3xxWwToiCvHg%3D">2022</a>. <a href="https://arxiv.org/abs/2105.10855"> arXiv</a>
    </li>
   <li> Vanishing of certain equivariant distributions on spherical spaces for quasi-split groups. J. Pure Appl. Algebra. 226 (2022), No.3, <a href="https://doi.org/10.1016/j.jpaa.2021.106870">  ID:106870.</a>
   </li>
