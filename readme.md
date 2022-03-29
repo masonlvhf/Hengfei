@@ -18,8 +18,9 @@ I am a postdoc at University of Vienna. I was a postdoc fellow at Weizmann Insti
 
 <h1> Papers and Preprints </h1>
 <p>
-
-
+ <li>
+Modulo l distinction problems for GL(2) and SL(2). with Peiyi Cui and  <a href="http://thomaslanard.com/">Thomas Lanard</a>, <a href="https://arxiv.org/abs/2203.14788">arXiv </a>
+</li>
   <li> The action of a mirabolic subgroup on a symmetric variety.  J. Algebra 589(2022), <a href="https://doi.org/10.1016/j.jalgebra.2021.10.005">323-344 </a>.
    </li>
  <li> The generalized linear period. J. Number Theory 233 (2022)<a href="https://doi.org/10.1016/j.jnt.2021.06.010"> 261--284</a>
