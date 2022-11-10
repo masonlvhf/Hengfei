@@ -3,7 +3,7 @@
 
 Hello, this is <a href="https://sites.google.com/site/luhengfei1018/home">Hengfei</a>(the link for google sites). 
 <p>
-I am a faculty member at Beihang University. I was a postdoc fellow at Universitat Wien and Weizmann Institute of Science, and a visiting fellow at Tata Institute of Fundamental Research Mumbai. I finished my Ph.D. study at Department of Mathematics, National University of Singapore in 2017.
+I am a faculty member at Beihang University. I did my postdoc training continuously at Universitat Wien, Weizmann Institute of Science and Tata Institute of Fundamental Research Mumbai. I finished my Ph.D. study at Department of Mathematics, National University of Singapore in 2017.
  </p> 
   <p>
  I am interested in the relative local Langlands correspondence.
