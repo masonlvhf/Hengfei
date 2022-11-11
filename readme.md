@@ -58,5 +58,5 @@ Postdoctoral Fellow
 <li>School of Mathematical Sciences, 
 Beihang University (Shahe Campus) </li>
 <li>9 Nansan Street, Shahe Higher Education Park, Changping, Beijing 102206 P.R.C </li>
-Email: hengfei [dot] lu [at] univie [dot] ac [dot] at 
+Email: luhengfei [at] buaa [dot] edu [dot] cn 
 </p>
