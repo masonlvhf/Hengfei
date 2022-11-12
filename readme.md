@@ -53,7 +53,6 @@ Modulo l distinction problems for GL(2) and SL(2). with Peiyi Cui and  <a href="
 <h1> Contact me </h1>
 
 <p>
-Postdoctoral Fellow 
  
 <li>School of Mathematical Sciences, 
 Beihang University (Shahe Campus) </li>
