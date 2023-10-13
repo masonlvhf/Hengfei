@@ -22,7 +22,7 @@ I am a faculty member at <a href="https://math.buaa.edu.cn/">Beihang University<
 Modulo l distinction problems for GL(2) and SL(2). with Peiyi Cui and  <a href="http://thomaslanard.com/">Thomas Lanard</a>, <a href="https://arxiv.org/abs/2203.14788">arXiv </a>
 </li>
    <li> Multiplicity one for the pair (GL(n,D),GL(n,E)). Transform. Groups 28(2023), No.2 <a href="https://link.springer.com/epdf/10.1007/s00031-022-09713-z?sharing_token=n-hDYgHXdKAmCJRudrzoNPe4RwlQNchNByi7wbcMAY4_oS2KWDO6A6DikSUXjMw03WfaIc-WZQ1Stn8J27hpcJNGSjSEz5reKCzkMGvgJavCxgSLVzJfHlp76DTg9izkDB62Sn-I-NUBBxK_NBfQwWuL5fXht8l3xxWwToiCvHg%3D"> 853--866</a>.
-    <li> The action of a mirabolic subgroup on a symmetric variety. J. Algebra 589(2022) <a herf="https://doi.org/10.1016/j.jalgebra.2021.10.005"> 323--344.</a> 
+    <li> The action of a mirabolic subgroup on a symmetric variety. J. Algebra 589(2022) <a href="https://doi.org/10.1016/j.jalgebra.2021.10.005"> 323--344.</a> 
     </li>
  <li> The generalized linear period. J. Number Theory 233 (2022)<a href="https://doi.org/10.1016/j.jnt.2021.06.010"> 261--284</a>
    </li>
