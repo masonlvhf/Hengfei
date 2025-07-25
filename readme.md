@@ -19,7 +19,12 @@ I am a faculty member at <a href="https://math.buaa.edu.cn/">Beihang University<
 <h1> Papers and Preprints </h1>
 <p>
  <li>
-Modulo l distinction problems for GL(2) and SL(2). with Peiyi Cui and  <a href="http://thomaslanard.com/">Thomas Lanard</a>, <a href="https://arxiv.org/abs/2203.14788">arXiv </a>
+  The generalized linear period and the Shalika period over a division algebra. to appear in <a href="https://authors.elsevier.com/a/1lUkI,WUBIsdo"> JNT</a> (2026) </li>
+ <li>
+  Remark on the distributions supported on the nilpotent cone. to appear in <a href="https://doi.org/10.1016/j.jalgebra.2025.03.044">J. Algebra</a>(2025)
+ </li>
+ <li>
+Modulo l distinction problems for GL(2) and SL(2). with Peiyi Cui and  <a href="http://thomaslanard.com/">Thomas Lanard</a>, to appear in Compositio Math. <a href="https://arxiv.org/abs/2203.14788">arXiv </a>
 </li>
    <li> Multiplicity one for the pair (GL(n,D),GL(n,E)). Transform. Groups 28(2023), No.2 <a href="https://link.springer.com/epdf/10.1007/s00031-022-09713-z?sharing_token=n-hDYgHXdKAmCJRudrzoNPe4RwlQNchNByi7wbcMAY4_oS2KWDO6A6DikSUXjMw03WfaIc-WZQ1Stn8J27hpcJNGSjSEz5reKCzkMGvgJavCxgSLVzJfHlp76DTg9izkDB62Sn-I-NUBBxK_NBfQwWuL5fXht8l3xxWwToiCvHg%3D"> 853--866</a>.
     <li> The action of a mirabolic subgroup on a symmetric variety. J. Algebra 589(2022) <a href="https://doi.org/10.1016/j.jalgebra.2021.10.005"> 323--344.</a> 
